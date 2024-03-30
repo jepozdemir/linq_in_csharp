@@ -14,12 +14,14 @@ To explore the examples in this repository, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using Git:
 
+```bash
     git clone https://github.com/jepozdemir/linq_in_csharp
-
+```
 2. **Navigate to the Directory:** Change your current directory to the cloned repository:
 
+```bash
     cd linq_in_csharp
-
+```
 3. **Open Solution:** Open the provided solution file (`CSharp.Tutorials.Linq.sln`) in Visual Studio or your preferred IDE that supports C# development.
 
 4. **Explore Examples:** Browse through the code examples provided in the solution. Each example is accompanied by comments explaining the purpose and functionality of the LINQ queries.
